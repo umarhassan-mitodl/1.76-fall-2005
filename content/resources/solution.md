@@ -6,6 +6,8 @@ description: This resource contains solutions on strategies to acquire Fe, Fe(II
 file: /courses/1-76-aquatic-chemistry-fall-2005/c6985c280df3f9c0099104d649498bed_solution.pdf
 file_size: 471690
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
