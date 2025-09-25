@@ -4,6 +4,8 @@ description: This resuorce contains problems on the rate of chlorination and pH.
 file: /courses/1-76-aquatic-chemistry-fall-2005/49a28983d6594a070942b41450544135_pset6.pdf
 file_size: 30389
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
