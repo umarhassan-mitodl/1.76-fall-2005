@@ -4,8 +4,6 @@ description: This resource contains information on gas constants.
 file: /courses/1-76-aquatic-chemistry-fall-2005/91b669af3caa2f7bc2cab92f759fe71c_gasconstants.pdf
 file_size: 38355
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

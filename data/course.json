@@ -39,8 +39,7 @@
     "website": "1-76-aquatic-chemistry-fall-2005"
   },
   "course_title": "Aquatic Chemistry",
-  "hide_download": true,
-  "course_description": "This course details the quantitative treatment of chemical processes in aquatic systems such as lakes, oceans, rivers, estuaries, groundwaters, and wastewaters. It includes a brief review of chemical thermodynamics that is followed by discussion of acid-base, precipitation-dissolution, coordination, and reduction-oxidation reactions. Emphasis is on equilibrium calculations as a tool for understanding the variables that govern the chemical composition of aquatic systems and the fate of inorganic pollutants.\n\nThis course is offered through The [MIT/WHOI Joint Program](http://web.mit.edu/mit-whoi/www/). The MIT/WHOI Joint Program is one of the premier marine science graduate programs in the world. It draws on the complementary strengths and approaches of two great institutions: the Massachusetts Institute of Technology (MIT) and the Woods Hole Oceanographic Institution (WHOI).\n",
+  "course_description": "This course details the quantitative treatment of chemical processes in aquatic systems such as lakes, oceans, rivers, estuaries, groundwaters, and wastewaters. It includes a brief review of chemical thermodynamics that is followed by discussion of acid-base, precipitation-dissolution, coordination, and reduction-oxidation reactions. Emphasis is on equilibrium calculations as a tool for understanding the variables that govern the chemical composition of aquatic systems and the fate of inorganic pollutants.\n\nThis course is offered through The {{% resource_link \"cf747806-84e5-4a1f-a18a-8e8dd033b10d\" \"MIT/WHOI Joint Program\" %}}. The MIT/WHOI Joint Program is one of the premier marine science graduate programs in the world. It draws on the complementary strengths and approaches of two great institutions: the Massachusetts Institute of Technology (MIT) and the Woods Hole Oceanographic Institution (WHOI).\n",
   "department_numbers": [
     "1"
   ],
@@ -50,7 +49,6 @@
     "content": "1841cb22-7eb9-a652-87c8-e1db65ab0a33",
     "website": "1-76-aquatic-chemistry-fall-2005"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Exams with Solutions",
     "Problem Sets"
